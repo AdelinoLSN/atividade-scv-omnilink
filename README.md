@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Professor</td>
   </tr>
+  <tr>
+    <td>Adelino Lourenço</td>
+    <td>Analísta de Software</td>
+  </tr>
 </table>
