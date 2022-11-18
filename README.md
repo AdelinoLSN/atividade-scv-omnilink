@@ -21,4 +21,8 @@
     <td>Felipe Libório</td>
     <td>Desenvolvedor</td>
   </tr>
+  <tr>
+    <td>Danillo Bion</td>
+    <td>Desenvolvedor Front-end</td>
+  </tr>
 </table>
