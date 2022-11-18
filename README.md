@@ -25,4 +25,8 @@
     <td>Danillo Bion</td>
     <td>Desenvolvedor Front-end</td>
   </tr>
+  <tr>
+     <th>Júlio Henrique Rodrigues</th>
+     <th>Coordenador de Sustentação e Mobile</th>
+  </tr>
 </table>
